@@ -24,21 +24,20 @@
 // }
 
 
-// switch(true){
-//     case (marks > 85):
-//         console.log("A+");
-//         break;
-//     case(marks > 70 && marks <85):
-//        console.log("A");
-//        break;
-//     case(marks>50 && marks<70):
-//        console.log("B");
-//        break;
-//     default:
-//         console.log("filed");
+switch(true){
+    case (marks > 85):
+        console.log("A+");
+        break;
+    case(marks > 70 && marks <85):
+       console.log("A");
+       break;
+    case(marks>50 && marks<70):
+       console.log("B");
+       break;
+    default:
+        console.log("filed");
 
-
-// }
+}
 
 //problem
 let arr = [];

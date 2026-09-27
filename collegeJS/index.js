@@ -57,3 +57,10 @@ for (let key in arr2) {
    console.log(key);
     
 }
+
+// function of sum 
+let sum = (a,b)=>{
+    return a+b;
+}
+
+sum(55,33);
